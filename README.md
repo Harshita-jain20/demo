@@ -2,4 +2,4 @@
 This is my learning demo
 </br>
 
-author - Harshita
+author - Harshita Jain
